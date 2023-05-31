@@ -1,5 +1,21 @@
 ## Problemas atuais na economia canadense
 
+### Inflação
+
+![Canada inflation chart](./inflation/BoC_Chart.png)
+
+* Crescimento e recuperação da taxa de inflação
+
+#### Fatores
+
+* Escassez de produtos
+* Alto preço de commodities
+* Baixas taxas de juros
+
+<p>
+  É perceptível um crescimento da taxa de inflação canadense nos últimos 3 anos, que em junho de 2022 atingiu a marca de 8,1% e agora encontra-se em recuperação. Diversos fatores levaram ao aumento da inflação como: interrupção na cadeia de suprimentos que levou a uma escassez de produtos, alto preços das commodities que se deve em parte pela invasão da Ucrânia pela Rússia e taxas de juros baratas que impulsionaram as compras de imóveis.
+</p>
+
 ### Envelhecimento da população
 
 #### Consequências
@@ -57,20 +73,3 @@
 <p>
   Os últimos dados divulgados sobre a dívida pública canadense de 2022 contém o valor de 1,134 trilhões de dólares canadenses. O crescimento da dívida durante a pandemia se deu por conta da implementação de programas de estímulo econômico, medidas de apoio, gastos com saúde e a queda da arrecadação de impostos. A crescente dívida pública não é um fenômeno novo no Canadá. Embora a dívida tenha crescido muito durante a pandemia, ela já estava aumentando muito antes. Esse aumento da dívida pública pode fazer com que não haja diminuição nos impostos e que menos recursos sejam direcionados para a saúde, educação entre outras áreas, podendo até haver um aumento nos impostos.
 </p>
-
-### Inflação
-
-![Canada inflation chart](./inflation/BoC_Chart.png)
-
-* Crescimento e recuperação da taxa de inflação
-
-#### Fatores
-
-* Escassez de produtos
-* Alto preço de commodities
-* Baixas taxas de juros
-
-<p>
-  É perceptível um crescimento da taxa de inflação canadense nos últimos 3 anos, que em junho de 2022 atingiu a marca de 8,1% e agora encontra-se em recuperação. Diversos fatores levaram ao aumento da inflação como: interrupção na cadeia de suprimentos que levou a uma escassez de produtos, alto preços das commodities que se deve em parte pela invasão da Ucrânia pela Rússia e taxas de juros baratas que impulsionaram as compras de imóveis.
-</p>
-
